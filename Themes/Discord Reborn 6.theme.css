@@ -27,11 +27,11 @@ RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MA
 */
 /*Change the url in .app to change the background behind chat */
 
-.app { background-image: url("https://imgur.com/RG03PyX.png") !important; background-size: cover !important; }
+.app { background-image: url("https://imgur.com/nT5LLKP.png") !important; background-size: cover !important; }
 
 /*Change the url in .callout-backdrop to change the background when modal pop outs happen */
 
-.callout-backdrop { background-color: black !important; background-image: url("https://imgur.com/RG03PyX.png") !important; -webkit-transition: 0.3s all ease; -o-transition: 0.3s all ease; -moz-transition: 0.3s all ease; transition: 0.3s all ease; background-size: cover !important; -webkit-filter: brightness(75%); }
+.callout-backdrop { background-color: black !important; background-image: url("https://imgur.com/mFFJ8O9.png") !important; -webkit-transition: 0.3s all ease; -o-transition: 0.3s all ease; -moz-transition: 0.3s all ease; transition: 0.3s all ease; background-size: cover !important; -webkit-filter: brightness(75%); }
 
 /*Change the urls below to change the background of a profile modal pop up */
 
